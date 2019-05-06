@@ -1,0 +1,40 @@
+# Ubuntu使用记录
+1、更改数据源，使用阿里源。
+2、安装Chrome，登陆账号，同步数据。
+3、[关闭桌面回收站图标](https://jingyan.baidu.com/article/fec7a1e5b81fe01190b4e7ce.html)
+4、配置终端默认打开位置为桌面。（配置文件目录为~/.bashrc，在文件中添加cd 桌面）
+5、安装vim
+6、设置终端快捷键 Ctrl + Alt + A
+7、[安装deepin桌面](https://www.jianshu.com/p/e2a15336f174)-失败
+	[换一种方法]（https://mp.weixin.qq.com/s?src=11&timestamp=1554127126&ver=1520&signature=xgTR2fUUmdd16I3qmrbLxWiSjTycPbTEO1pwrJmR24hGfDD32mtMT
+		   wmc*sRWAwAniwy9q7ElR3lFJb7e2clhpysNntpxdEQuDc2kZWYrQPkHQe3InpYn6uPVhwJRcGjU&new=1）成功了
+8、[开机默认启动命令行模式]（https://blog.csdn.net/qq_42955378/article/details/86673976）
+9、[系统提速]（http://www.sohu.com/a/259774240_185201）*
+sudo apt install dde dde-file-manager
+http://www.cnblogs.com/rusking/p/4187933.html
+10、安装wine-deepin for ubuntu
+11、[查看ubuntu安装的所有的软件]（http://www.cnblogs.com/johnnyzen/p/7995157.html）
+12、[安装Jupyter notebook(先安装pip)]（https://jingyan.baidu.com/article/7082dc1c09e84fe40a89bdca.html）
+   [配置Jupyter notrnook]（https://blog.csdn.net/MiMicoa/article/details/79995689）
+13、[更改Num Lock默认为打开]（https://jingyan.baidu.com/article/fedf073748072b35ac8977c6.html）*
+14、安装deepin下输入法
+15、[安装XDM](https://blog.csdn.net/qq378947986/article/details/80821237)
+16、查看ubuntu安装的所有的包
+17、建立Python脚本仓库，建立Shell脚本仓库。
+18、安装wine-qq
+19、[jupyter查看md文档]（https://blog.csdn.net/tuzixini/article/details/83117542）
+20、设置文件和文件夹访问权限*
+21、无损压缩音频、视频、图片*
+22、修复磁盘只读不可写。*[知乎](https://www.zhihu.com/question/277318139)
+23、安装cmus，音频播放软件
+24、添加文档、下载等到收藏夹。*
+25、安装Vim-Instant-Markdown（https://blog.csdn.net/demorngel/article/details/69036044）
+26、安装Mplayer（一款视频播放器，大概有10多M）
+27、安装VLC
+28、安装aria2,尝试下载百度云视频
+29、建立 文档/GitHub文件夹
+30、下载https://github.com/jaywcjlove/linux-command.git
+31、解决GitHub下载慢
+32、Ubuntu修改hosts:https://jingyan.baidu.com/article/19192ad8e0333be53f570758.html
+33、vim搭建PythonIDEhttps://segmentfault.com/a/1190000003962806
+
